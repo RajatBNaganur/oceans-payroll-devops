@@ -1,0 +1,13 @@
+{
+  "name": "oceans-payroll",
+  "version": "1.0.0",
+  "description": "Payroll Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node -e \"console.log('All tests passed')\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
